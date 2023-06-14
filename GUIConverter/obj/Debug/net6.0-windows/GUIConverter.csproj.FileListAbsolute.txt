@@ -1,0 +1,17 @@
+D:\visual studio\GUIConverter\obj\Debug\net6.0-windows\GUIConverter.csproj.AssemblyReference.cache
+D:\visual studio\GUIConverter\obj\Debug\net6.0-windows\GUIConverter.Form1.resources
+D:\visual studio\GUIConverter\obj\Debug\net6.0-windows\GUIConverter.csproj.GenerateResource.cache
+D:\visual studio\GUIConverter\obj\Debug\net6.0-windows\GUIConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\GUIConverter\obj\Debug\net6.0-windows\GUIConverter.AssemblyInfoInputs.cache
+D:\visual studio\GUIConverter\obj\Debug\net6.0-windows\GUIConverter.AssemblyInfo.cs
+D:\visual studio\GUIConverter\obj\Debug\net6.0-windows\GUIConverter.csproj.CoreCompileInputs.cache
+D:\visual studio\GUIConverter\bin\Debug\net6.0-windows\GUIConverter.exe
+D:\visual studio\GUIConverter\bin\Debug\net6.0-windows\GUIConverter.deps.json
+D:\visual studio\GUIConverter\bin\Debug\net6.0-windows\GUIConverter.runtimeconfig.json
+D:\visual studio\GUIConverter\bin\Debug\net6.0-windows\GUIConverter.dll
+D:\visual studio\GUIConverter\bin\Debug\net6.0-windows\GUIConverter.pdb
+D:\visual studio\GUIConverter\obj\Debug\net6.0-windows\GUIConverter.dll
+D:\visual studio\GUIConverter\obj\Debug\net6.0-windows\refint\GUIConverter.dll
+D:\visual studio\GUIConverter\obj\Debug\net6.0-windows\GUIConverter.pdb
+D:\visual studio\GUIConverter\obj\Debug\net6.0-windows\GUIConverter.genruntimeconfig.cache
+D:\visual studio\GUIConverter\obj\Debug\net6.0-windows\ref\GUIConverter.dll
